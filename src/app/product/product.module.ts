@@ -10,6 +10,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     ReactiveFormsModule
   ],
   declarations: [ProductDetailComponent],
-  exports: [ProductDetailComponent],
+  // exports: [ProductDetailComponent],
 })
 export class ProductModule { }
